@@ -152,3 +152,5 @@ body {
     background: white;
     box-shadow: none;
 }
+
+@media (max-width: 768px)
